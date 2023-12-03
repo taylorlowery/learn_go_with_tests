@@ -1,4 +1,0 @@
-{
-  "name": "my_lil_golang_container",
-  "image": "golang:1.21-bookworm"
-}
