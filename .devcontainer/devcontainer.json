@@ -1,4 +1,0 @@
-{
-  "name": "go_dev",
-  "image": "golang:1.21-bookworm"
-}
